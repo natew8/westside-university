@@ -81,3 +81,15 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+.back-arrow{
+  height: 50px;
+  width: 50px;
+  margin-bottom: -2.5rem;
+  margin-left: -2rem;
+  filter: invert(.6);
+}
+.back-arrow:hover{
+  filter: invert(.3);
+  cursor: pointer;
+}
+
